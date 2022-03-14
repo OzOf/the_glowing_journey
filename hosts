@@ -1,0 +1,162 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+109.94.209.70      fitgirlrepacks.co               # Fake FitGirl site
+109.94.209.70      fitgirl-repacks.cc              # Fake FitGirl site
+109.94.209.70      fitgirl-repack.com              # Fake FitGirl site
+109.94.209.70      fitgirl-repacks.website         # Fake FitGirl site
+109.94.209.70      www.fitgirlrepacks.co           # Fake FitGirl site
+109.94.209.70      www.fitgirl-repacks.cc          # Fake FitGirl site
+109.94.209.70      www.fitgirl-repack.com          # Fake FitGirl site
+109.94.209.70      www.fitgirl-repacks.website     # Fake FitGirl site
+109.94.209.70      ww9.fitgirl-repacks.xyz         # Fake FitGirl site
+109.94.209.70      *.fitgirl-repacks.xyz           # Fake FitGirl site
+109.94.209.70      fitgirl-repacks.xyz             # Fake FitGirl site
+109.94.209.70      fitgirl-repack.net              # Fake FitGirl site
+109.94.209.70      www.fitgirl-repack.net          # Fake FitGirl site
+140.82.112.4    github.com
+140.82.113.3    github.com
+140.82.113.4    github.com
+140.82.112.3    github.com
+140.82.114.4    github.com
+192.30.253.112 github.com
+192.30.253.119 gist.github.com
+151.101.100.133 assets-cdn.github.com
+151.101.100.133 raw.githubusercontent.com
+151.101.100.133 gist.githubusercontent.com
+151.101.100.133 cloud.githubusercontent.com
+151.101.100.133 camo.githubusercontent.com
+151.101.100.133 avatars0.githubusercontent.com
+151.101.100.133 avatars1.githubusercontent.com
+151.101.100.133 avatars2.githubusercontent.com
+151.101.100.133 avatars3.githubusercontent.com
+151.101.100.133 avatars4.githubusercontent.com
+151.101.100.133 avatars5.githubusercontent.com
+151.101.100.133 avatars6.githubusercontent.com
+151.101.100.133 avatars7.githubusercontent.com
+151.101.100.133 avatars8.githubusercontent.com
+127.0.0.1 steamcommunity.com #S302
+
+127.0.0.1 www.steamcommunity.com #S302
+
+127.0.0.1 store.steampowered.com #S302
+
+127.0.0.1 api.steampowered.com #S302
+
+127.0.0.1 discordapp.com #S302
+
+127.0.0.1 dl.discordapp.net #S302
+
+127.0.0.1 status.discordapp.com #S302
+
+127.0.0.1 cdn.discordapp.com #S302
+
+127.0.0.1 media.discordapp.net #S302
+
+127.0.0.1 images-ext-2.discordapp.net #S302
+
+127.0.0.1 images-ext-1.discordapp.net #S302
+
+127.0.0.1 support.discordapp.com #S302
+
+127.0.0.1 twitch.tv #S302
+
+127.0.0.1 www.twitch.tv #S302
+
+127.0.0.1 m.twitch.tv #S302
+
+127.0.0.1 app.twitch.tv #S302
+
+127.0.0.1 music.twitch.tv #S302
+
+127.0.0.1 badges.twitch.tv #S302
+
+127.0.0.1 blog.twitch.tv #S302
+
+127.0.0.1 inspector.twitch.tv #S302
+
+127.0.0.1 stream.twitch.tv #S302
+
+127.0.0.1 dev.twitch.tv #S302
+
+127.0.0.1 platform.twitter.com #S302
+
+127.0.0.1 clips.twitch.tv #S302
+
+127.0.0.1 spade.twitch.tv #S302
+
+127.0.0.1 gql.twitch.tv #S302
+
+127.0.0.1 vod-secure.twitch.tv #S302
+
+127.0.0.1 vod-storyboards.twitch.tv #S302
+
+127.0.0.1 trowel.twitch.tv #S302
+
+127.0.0.1 countess.twitch.tv #S302
+
+127.0.0.1 extension-files.twitch.tv #S302
+
+127.0.0.1 vod-metro.twitch.tv #S302
+
+127.0.0.1 pubster.twitch.tv #S302
+
+127.0.0.1 help.twitch.tv #S302
+
+127.0.0.1 passport.twitch.tv #S302
+
+127.0.0.1 id.twitch.tv #S302
+
+127.0.0.1 link.twitch.tv #S302
+
+127.0.0.1 id-cdn.twitch.tv #S302
+
+127.0.0.1 player.twitch.tv #S302
+
+127.0.0.1 api.twitch.tv #S302
+
+127.0.0.1 cvp.twitch.tv #S302
+
+127.0.0.1 pubsub-edge.twitch.tv #S302
+
+127.0.0.1 clips-media-assets2.twitch.tv #S302
+
+127.0.0.1 client-event-reporter.twitch.tv #S302
+
+127.0.0.1 gds-vhs-drops-campaign-images.twitch.tv #S302
+
+127.0.0.1 us-west-2.uploads-regional.twitch.tv #S302
+
+127.0.0.1 assets.help.twitch.tv #S302
+
+127.0.0.1 discuss.dev.twitch.tv #S302
+
+127.0.0.1 irc-ws.chat.twitch.tv #S302
+
+127.0.0.1 usher.ttvnw.net #S302
+
+127.0.0.1 steamcdn-a.akamaihd.net #S302
+
+127.0.0.1 origin-a.akamaihd.net #S302
+
+127.0.0.1 static3.cdn.ubi.com #S302
+
+127.0.0.1 www.google.com #S302
+
